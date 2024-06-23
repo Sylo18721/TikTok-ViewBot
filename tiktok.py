@@ -6,7 +6,6 @@ import warnings, selenium, platform
 init(convert = True, autoreset = True)
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-
 ascii_text = f"""{Fore.RED}
                 ████████▀▀▀████
                 ████████────▀██
